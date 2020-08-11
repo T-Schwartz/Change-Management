@@ -3,4 +3,4 @@ stepNum = input ("What step of managment would you like to learn about")
 if (stepNum == "1"):
   print ("The First Step Is: Preparation")
 elif (stepNum=="2"):
-  print("Creating a Vision")
+  print("Creating a Vision for the Change")
