@@ -2,5 +2,5 @@ print ("Welcome to our Senior thesis about change management")
 stepNum = input ("What step of managment would you like to learn about")
 if (stepNum == "1"):
   print ("The First Step Is: Preparation")
-elif (stepNum=="2"):
-  print("Creating a Vision for the Change")
+elif (stepNum == "2"):
+  print ("The Second Step Is: Parameters of the Change")
